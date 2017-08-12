@@ -1,2 +1,2 @@
 # spring-twitter
-Simple application which is connects with your #Twitter account and shows your friends
+Simple application which connects with your #Twitter account and shows your friends
